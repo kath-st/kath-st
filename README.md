@@ -1,5 +1,5 @@
 # Hi there 👋, Katherine Siesquen here.
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kittyzliz.repoName) [![GitHub followers](https://img.shields.io/github/followers/kittyzliz.svg?style=social&label=Follow)](https://github.com/kittyzliz?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kath-st.repoName) [![GitHub followers](https://img.shields.io/github/followers/kath-st.svg?style=social&label=Follow)](https://github.com/kath-st?tab=followers)<br/>
 
 <p align="center">
   <img width="250px" alt="Hacker Dog" src="gifts/god.gif" />
