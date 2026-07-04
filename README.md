@@ -1,4 +1,4 @@
-# Hi there 👋, Katherine Siesquen here.
+# Hi there 👋, lizz here.
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kath-st.repoName) [![GitHub followers](https://img.shields.io/github/followers/kath-st.svg?style=social&label=Follow)](https://github.com/kath-st?tab=followers)<br/>
 
 <p align="center">
