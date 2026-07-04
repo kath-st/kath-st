@@ -5,8 +5,6 @@
   <img width="250px" alt="Hacker Dog" src="gifts/god.gif" />
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
 ---
 
 [instagram]: https://www.instagram.com/lizbee.th/  
